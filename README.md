@@ -1,1 +1,3 @@
-# ComputerVision20212 KimjaeJung
+# Dongseo Univ.
+# ComputerVision2021-2 
+# KimJaeJung
